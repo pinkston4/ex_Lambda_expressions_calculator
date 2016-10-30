@@ -1,0 +1,23 @@
+#wrapper {
+	margin-left: 25%;
+	margin-right: 25%;
+}
+
+#formCont {
+	margin-top: 25%;
+	text-align: center;
+	border: 2px solid black;
+}
+
+ul {
+	text-align: left;
+}
+
+.outPut {
+	text-align: center;
+	width: 90px;
+	height: 20px;
+	border: 2px solid #ccc;
+	margin: 5px auto;
+
+}
